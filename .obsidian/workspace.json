@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "860104dcc5a92416",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wakatime/2024-11-11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-11"
-            }
-          },
-          {
             "id": "1103d09266babe99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "README"
             }
           }
         ]
@@ -112,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1b14a4442c16936d",
@@ -128,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wakatime/2024-11-11.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-11-11"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -174,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wakatime/2024-11-11.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-11"
+              "title": "Outline of README"
             }
           },
           {
@@ -226,11 +203,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "860104dcc5a92416",
+  "active": "1103d09266babe99",
   "lastOpenFiles": [
-    "Table of Contents For ACAD Notes.md",
-    "Shakti Processors Overview.md",
     "Untitled.md",
+    "Table of Contents For ACAD Notes.md",
+    "README.md",
+    "wakatime/2024-11-11.md",
+    "Shakti Processors Overview.md",
     "Pasted image 20250318230641.png",
     "Untitled",
     "Pasted Image 20250119021210_848.png",
@@ -252,13 +231,11 @@
     "Images/WhatsApp Image 2024-11-12 at 12.08.54_a36b3c29.jpg",
     "Recordings",
     "Images/Pasted image 20241111110750.png",
-    "wakatime/2024-11-11.md",
     "Images",
     "wakatime",
     "wakatime/2024-11-15.md",
     "wakatime/2024-11-14.md",
     "wakatime/2024-11-13.md",
-    "README.md",
     "Recordings/Recording 20241112151555.webm",
     "Recordings/Recording 20241112151010.webm",
     "Recordings/Recording 20241112145817.webm",
@@ -273,7 +250,6 @@
     "Newsletter Website.md",
     "^702794.md",
     "Creating.md",
-    "SRMDEI MEET REGARDING SIH.md",
-    "Untitled Kanban.md"
+    "SRMDEI MEET REGARDING SIH.md"
   ]
 }
