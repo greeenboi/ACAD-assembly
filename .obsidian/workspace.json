@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "25cf8d4f2b9a268e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b9e5cb58aa2a1d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "860104dcc5a92416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wakatime/2024-11-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-11"
+            }
+          },
+          {
+            "id": "1103d09266babe99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "160e8c6b17cc4f21",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1617bc0a2df01ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09734cafaf759870",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ee515e9bea089004",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5fa89ca3a0b14534",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b14a4442c16936d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f2b51f2616dde02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34d91dac77a06add",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wakatime/2024-11-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-11-11"
+            }
+          },
+          {
+            "id": "2d7178fd3267c11b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RHCSA/RHCSA v9.3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from RHCSA v9.3"
+            }
+          },
+          {
+            "id": "adbdb57fdce7afb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "257921c3db96331c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wakatime/2024-11-11.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-11"
+            }
+          },
+          {
+            "id": "a0ebbed8bef86aea",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1881766314aac689",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "860104dcc5a92416",
+  "lastOpenFiles": [
+    "Table of Contents For ACAD Notes.md",
+    "Shakti Processors Overview.md",
+    "Untitled.md",
+    "Pasted image 20250318230641.png",
+    "Untitled",
+    "Pasted Image 20250119021210_848.png",
+    "TimeLine EVEN SEM 2025.md",
+    "How to Use Sanity studio in FC Website.md",
+    "FC Anant Sir MOM.md",
+    "Pasted image 20250119022001.png",
+    "Excalidraw/Drawing 2025-01-19 02.11.06.excalidraw.md",
+    "Pasted image 20250119021714.png",
+    "Pasted image 20250119021021.png",
+    "RHCSA/RHCSA v9.3.md",
+    "2024-11-22.md",
+    "2024-11-18.md",
+    "Excalidraw/Drawing 2024-11-17 14.05.35.excalidraw.md",
+    "wakatime/2024-11-16.md",
+    "wakatime/2024-11-17.md",
+    "Recordings/Recording 20241111105521.webm",
+    "Recordings/Recording 20241111141030.webm",
+    "Images/WhatsApp Image 2024-11-12 at 12.08.54_a36b3c29.jpg",
+    "Recordings",
+    "Images/Pasted image 20241111110750.png",
+    "wakatime/2024-11-11.md",
+    "Images",
+    "wakatime",
+    "wakatime/2024-11-15.md",
+    "wakatime/2024-11-14.md",
+    "wakatime/2024-11-13.md",
+    "README.md",
+    "Recordings/Recording 20241112151555.webm",
+    "Recordings/Recording 20241112151010.webm",
+    "Recordings/Recording 20241112145817.webm",
+    "Recordings/Recording 20241112144704.webm",
+    "Untitled.canvas",
+    "wakatime/2024-11-12.md",
+    "Excalidraw/Drawing 2024-11-11 10.34.27.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-11 14.00.05.excalidraw.md",
+    "Images/Pasted image 20241111144522.png",
+    "Images/Pasted image 20241111144501.png",
+    "Pasted image 20240728185405.png",
+    "Newsletter Website.md",
+    "^702794.md",
+    "Creating.md",
+    "SRMDEI MEET REGARDING SIH.md",
+    "Untitled Kanban.md"
+  ]
+}
