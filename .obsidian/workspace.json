@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2b9e5cb58aa2a1d2",
+        "id": "3801b0a6f10cfbab",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "HelloWorld.s.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "HelloWorld.s"
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "HelloWorld.s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for HelloWorld.s"
             }
           },
           {
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "HelloWorld.s.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of HelloWorld.s"
             }
           },
           {
@@ -205,9 +205,11 @@
   },
   "active": "1103d09266babe99",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Table of Contents For ACAD Notes.md",
+    "HelloWorld.s.md",
+    "Pasted image 20250319004245.png",
+    "Untitled 1.md",
     "README.md",
+    "Table of Contents For ACAD Notes.md",
     "wakatime/2024-11-11.md",
     "Shakti Processors Overview.md",
     "Pasted image 20250318230641.png",
@@ -246,10 +248,8 @@
     "Excalidraw/Drawing 2024-11-11 14.00.05.excalidraw.md",
     "Images/Pasted image 20241111144522.png",
     "Images/Pasted image 20241111144501.png",
-    "Pasted image 20240728185405.png",
     "Newsletter Website.md",
     "^702794.md",
-    "Creating.md",
-    "SRMDEI MEET REGARDING SIH.md"
+    "Creating.md"
   ]
 }
