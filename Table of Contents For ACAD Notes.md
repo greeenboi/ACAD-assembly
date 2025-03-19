@@ -3,4 +3,4 @@ Cursory Overview : [[README]]
 
 1) [[Shakti Processors Overview]]
 2) Basic Assembly Program [[HelloWorld.s]]
-3) 
+3) Basic Circuitry [[Digital Circuits]]

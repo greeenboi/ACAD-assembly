@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HelloWorld.s.md",
+                "file": "Table of Contents For ACAD Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HelloWorld.s"
+              "title": "Table of Contents For ACAD Notes"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1b14a4442c16936d",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HelloWorld.s.md",
+                "file": "Digital Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HelloWorld.s"
+              "title": "Backlinks for Digital Circuits"
             }
           },
           {
@@ -151,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HelloWorld.s.md",
+                "file": "Digital Circuits.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HelloWorld.s"
+              "title": "Outline of Digital Circuits"
             }
           },
           {
@@ -176,11 +175,12 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -205,23 +205,27 @@
   },
   "active": "1103d09266babe99",
   "lastOpenFiles": [
-    "HelloWorld.s.md",
-    "Pasted image 20250319004245.png",
-    "Untitled 1.md",
     "README.md",
+    "Digital Circuits.md",
+    "Pasted image 20250319100014.png",
+    "Pasted image 20250319100006.png",
+    "Pasted image 20250319095934.png",
+    "Pasted image 20250319095921.png",
+    "Pasted image 20250319095356.png",
+    "Pasted image 20250319095323.png",
+    "Pasted image 20250319095213.png",
+    "Pasted image 20250319095144.png",
+    "Pasted image 20250319095104.png",
+    "Pasted image 20250319095052.png",
     "Table of Contents For ACAD Notes.md",
+    "HelloWorld.s.md",
     "wakatime/2024-11-11.md",
     "Shakti Processors Overview.md",
-    "Pasted image 20250318230641.png",
     "Untitled",
-    "Pasted Image 20250119021210_848.png",
     "TimeLine EVEN SEM 2025.md",
     "How to Use Sanity studio in FC Website.md",
     "FC Anant Sir MOM.md",
-    "Pasted image 20250119022001.png",
     "Excalidraw/Drawing 2025-01-19 02.11.06.excalidraw.md",
-    "Pasted image 20250119021714.png",
-    "Pasted image 20250119021021.png",
     "RHCSA/RHCSA v9.3.md",
     "2024-11-22.md",
     "2024-11-18.md",
@@ -230,9 +234,7 @@
     "wakatime/2024-11-17.md",
     "Recordings/Recording 20241111105521.webm",
     "Recordings/Recording 20241111141030.webm",
-    "Images/WhatsApp Image 2024-11-12 at 12.08.54_a36b3c29.jpg",
     "Recordings",
-    "Images/Pasted image 20241111110750.png",
     "Images",
     "wakatime",
     "wakatime/2024-11-15.md",
@@ -246,8 +248,6 @@
     "wakatime/2024-11-12.md",
     "Excalidraw/Drawing 2024-11-11 10.34.27.excalidraw.md",
     "Excalidraw/Drawing 2024-11-11 14.00.05.excalidraw.md",
-    "Images/Pasted image 20241111144522.png",
-    "Images/Pasted image 20241111144501.png",
     "Newsletter Website.md",
     "^702794.md",
     "Creating.md"
