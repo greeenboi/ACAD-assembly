@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Table of Contents For ACAD Notes.md",
+                "file": "HelloWorld.s.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Table of Contents For ACAD Notes"
+              "title": "HelloWorld.s"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1b14a4442c16936d",
@@ -205,6 +206,7 @@
   },
   "active": "1103d09266babe99",
   "lastOpenFiles": [
+    "Table of Contents For ACAD Notes.md",
     "README.md",
     "Digital Circuits.md",
     "Pasted image 20250319100014.png",
@@ -217,7 +219,6 @@
     "Pasted image 20250319095144.png",
     "Pasted image 20250319095104.png",
     "Pasted image 20250319095052.png",
-    "Table of Contents For ACAD Notes.md",
     "HelloWorld.s.md",
     "wakatime/2024-11-11.md",
     "Shakti Processors Overview.md",
