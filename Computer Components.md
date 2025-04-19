@@ -10,5 +10,10 @@ PC is a register that stores the address of the instruction the process is execu
 4) LW | SW for memory access
 5) then result is written to register
 
-#### Clocking Methodology
+#### Register Files
 
+- Reads are combinational
+  Can read in any cycle and for multiple reads
+
+
+![[Drawing 2025-04-19 12.06.57.excalidraw]]
