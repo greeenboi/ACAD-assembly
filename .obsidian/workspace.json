@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3801b0a6f10cfbab",
+        "id": "86df45959d282318",
         "type": "tabs",
         "children": [
           {
-            "id": "1103d09266babe99",
+            "id": "5599d4ff617341fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HelloWorld.s.md",
+                "file": "Computer Components.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HelloWorld.s"
+              "title": "Computer Components"
             }
           }
         ]
@@ -166,8 +166,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -181,12 +181,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,11 +203,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1103d09266babe99",
+  "active": "5599d4ff617341fb",
   "lastOpenFiles": [
+    "Digital Circuits.md",
+    "Computer Components.md",
     "Table of Contents For ACAD Notes.md",
     "README.md",
-    "Digital Circuits.md",
+    "Shakti Processors Overview.md",
+    "Session Recap.md",
+    "HelloWorld.s.md",
     "Pasted image 20250319100014.png",
     "Pasted image 20250319100006.png",
     "Pasted image 20250319095934.png",
@@ -219,9 +222,7 @@
     "Pasted image 20250319095144.png",
     "Pasted image 20250319095104.png",
     "Pasted image 20250319095052.png",
-    "HelloWorld.s.md",
     "wakatime/2024-11-11.md",
-    "Shakti Processors Overview.md",
     "Untitled",
     "TimeLine EVEN SEM 2025.md",
     "How to Use Sanity studio in FC Website.md",
@@ -250,7 +251,6 @@
     "Excalidraw/Drawing 2024-11-11 10.34.27.excalidraw.md",
     "Excalidraw/Drawing 2024-11-11 14.00.05.excalidraw.md",
     "Newsletter Website.md",
-    "^702794.md",
-    "Creating.md"
+    "^702794.md"
   ]
 }
